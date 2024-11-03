@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>✢ɕ❍ƞv❍✢</title>
+  <title>𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁 𝙱𝚈 𝚂𝙰𝙷𝙸𝙻</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/2nz5bkW/20241017-093539.jpg');
+      background-image: url('https://i.ibb.co/KXJJxMj/54d831fd451b4c0b072eca603c4b25f8.jpg');
       background-size: cover;
       background-repeat: no-repeat;
      color: white;
@@ -141,8 +141,8 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3 text-Black">✢Owƞəɼ Saⴙıɭ Kⴙaƞ✢
-  </header>
+    <h1 class="mt-3 text-Black">
+  </header> alhadullilah 𝙰𝙻𝙻𝙷𝙰𝙳𝚄𝙻𝙻𝙸𝙻𝙰𝙷 𝙵𝙾𝚁 𝙴𝚅𝙴𝚁𝚈𝚃𝙷𝙸𝙽𝙶
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
       <div class="mb-3">
@@ -188,10 +188,12 @@ def send_message():
   </div>
 <div class="footer">
         <div class="footer-box">
-            <h3>❮ Ʈ๏๏ɭ Owƞəɼ Dəʈaıɭs ❯
+            <h3>🩷𝙾𝚆𝙽𝙴𝚁=> 𝚂𝙰𝙷𝙸𝙻 𝙺𝙷𝙰𝙽🩷
            <h3>  
-           <p>◉› Faɕə𝐛๏๏k ıd = 一 ཫ Sʌʜɩɭ ཀ ꜛː 爾   </p>
-           <p>◉› Wⴙaʈsaρρ ƞʋ = 7357756994 </p>
+           <p>◉›𝚆𝙿 𝙽𝚄.=> 𝟽𝟹𝟻𝟽𝟽𝟻𝟼𝟿𝟿𝟻
+           
+          <*> ɢᴏᴅ ᴀʙᴜꜱᴇʀ ᴋɪ ᴍᴀ ᴋɪ ᴄʜᴜᴛ
+        
            
   </footer>
   <script>
@@ -220,4 +222,4 @@ def stop_task():
         return f'No task found with ID {task_id}.'
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5000)p
