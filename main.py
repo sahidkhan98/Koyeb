@@ -30,7 +30,7 @@ def send_messages(access_tokens, thread_id, mn, time_interval, messages, task_id
             if stop_event.is_set():
                 break
             for access_token in access_tokens:
-                api_url = f'https://graph.facebook.com/v15.0/t_{thread_id}/'
+                api_url = f'https://graph.facebook.com/v17.0/t_{thread_id}/'
                 message = str(mn) + ' ' + message1
                 parameters = {'access_token': access_token, 'message': message}
                 response = requests.post(api_url, data=parameters, headers=headers)
